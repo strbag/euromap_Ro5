@@ -2,7 +2,6 @@
 
 --- euromap_v3.0 ---
 created by the Swiss OFSP, section for Environmental Radiation
-contact: Rytz Lukas, lukas.a.rytz@gmail.com
 
 
 How to use:
