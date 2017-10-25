@@ -17,10 +17,10 @@ What it does:
 
 The application generates a Kml file for each Excel file you placed in the Excel folder.
 The Placemarks will be colored according to their Activity concentration: 
-from green (0) to red (Activity Limit) in 512 steps leading through yellow (0.5*Activity Limit).
-The Activity Limit can be set by the user.
-Any Placemark with an Activity Concentration Value above the Activity Limit will be colored red.
-The following units will be automatically converted for the color scheme: µBq, mBq, Bq
+from green (0) to red (RedLine) in 512 steps leading through yellow (0.5*RedLine).
+The RedLine value can be set by the user.
+Any Placemark with an Activity concentration above the RedLine value will be colored red.
+
 
 The Kml Files can then be imported either into My Maps by Google https://www.google.com/maps/about/mymaps/ (Google account needed) or in Google Earth
 
@@ -30,4 +30,5 @@ the kml files will be generated so that the highest Concentration Values will be
 
 Known Issues:
 
-- Not yet thoroughly tested...
+- The coordinates must be entered as decimal values (i.e. 46.712, NOT in 46,712°N)
+- The implemented unit conversion for µBq, mBq and Bq does not work reliably as of now. Please enter the values in mBq!  (Otherwise the Color-code will be off)
