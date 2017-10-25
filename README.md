@@ -36,4 +36,4 @@ Known Issues:
 
 Examples:
 
-![alt text](https://github.com/strbag/euromap_Ro5/edit/master/Example_Map.png)
+![alt text](https://github.com/strbag/euromap_Ro5/edit/master/Map_example.png)
