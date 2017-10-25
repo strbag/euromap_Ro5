@@ -32,3 +32,8 @@ Known Issues:
 
 - The coordinates must be entered in Excel as decimal values (i.e. 46.712, NOT in 46,712°N)
 - The implemented unit conversion for µBq, mBq and Bq does not work reliably as of now. Please enter the values in mBq in Excel!  (Otherwise the Color-code will be off)
+
+
+Examples:
+
+![alt text](
