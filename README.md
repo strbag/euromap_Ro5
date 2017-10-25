@@ -36,4 +36,6 @@ Known Issues:
 
 Examples:
 
-![alt text](https://github.com/strbag/euromap_Ro5/edit/master/Map_example.png)
+![Map](https://github.com/strbag/euromap_Ro5/edit/master/Map_example.png)
+![Placemark](https://github.com/strbag/euromap_Ro5/edit/master/Placemark_example.png)
+![Colors](https://github.com/strbag/euromap_Ro5/edit/master/Color_example.png)
